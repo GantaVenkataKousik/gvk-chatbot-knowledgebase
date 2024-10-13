@@ -4,8 +4,14 @@ This is a cross-platform desktop application built with [tkinter] that serves as
 
 ## Getting Started
 
-To get started with this app, you need to clone or download the repository first:
+#### To get started with this app, you need to clone or download the repository first:
 
 ```bash
-git clone https://github.com/your-username/GVK-Assistant-Chatbot
-cd GVK-Assistant-Chatbot
+git clone https://github.com/your-username/gvk-chatbot-knowledgebase
+cd gvk-chatbot-knowledgebase
+```
+
+### To run the Python file, you can use the following command:
+
+```bash
+python main.py

@@ -4,7 +4,8 @@ This is a cross-platform desktop application built with [tkinter] that serves as
 
 ## Getting Started
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-#### To get started with this app, you need to clone or download the repository first:
+
+To get started with this app, you need to clone or download the repository first:
 
 ```bash
 git clone https://github.com/your-username/gvk-knowledgebase-chatbot
